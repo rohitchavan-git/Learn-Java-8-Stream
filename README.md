@@ -1,5 +1,5 @@
 # New Way Of Learing Java 8 Streams
-In this Respository we can find out the best of the implemations of streams in java 8 , we are tries to show you how stream is similar to mysql types of operation 
+In this Respository we are giving you the best of best the implemations of streams in java 8 , we are tries to show you how stream is similar to mysql operation 
 ## Topics Covers
   * lambda in java 8
   * Functional Interface
