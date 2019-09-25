@@ -38,4 +38,14 @@ In this Respository we are giving you the best of best the implemations of strea
                     .collect(Collectors.toList()); 
   ```
 
-      
+## Questions cover
+   * Find all transactions in the year 2011 and sort them by value (small to high).
+   * What are all the unique cities where the traders work?
+   * Find all traders from Cambridge and sort them by name.
+   * Return a string of all traders’ names sorted alphabetically.
+   * Are any traders based in Milan?
+   * Print all transactions’ values from the traders living in Cambridge.
+   * What’s the highest value of all the transactions?
+   * Find the transaction with the smallest value.
+## Database Design
+   ![Database Design](https://github.com/rohitchavan-git/Learn-Java-8-Stream/blob/master/github.png)
