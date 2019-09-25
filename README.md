@@ -28,7 +28,7 @@ In this Respository we are giving you the best of best the implemations of strea
      * forEach
      * IntStream.rangeClosed
      * mapToObj ,mapToInt and more
-  *Logically We are comapring all Stream operations to MYSQL Opearations
+  * Logically We are comapring all Stream operations to MYSQL Opearations
   ### Example
   ```bash
       select tid from transactions where city="hyd" (Logically Similar To) 
