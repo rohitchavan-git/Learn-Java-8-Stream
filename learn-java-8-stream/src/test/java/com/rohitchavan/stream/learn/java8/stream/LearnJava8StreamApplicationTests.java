@@ -14,6 +14,18 @@ import com.rohitchavan.stream.learn.java8.stream.entity.Transaction;
 import com.rohitchavan.stream.learn.java8.stream.repository.TradersRepo;
 import com.rohitchavan.stream.learn.java8.stream.repository.TransactionRepo;
 
+
+
+/**
+ * 1.Find all transactions in the year 2011 and sort them by value (small to high).
+ * 2.What are all the unique cities where the traders work?
+ * 3.Find all traders from Nanded and sort them by name.
+ * 4.Return a string of all traders’ names sorted alphabetically.
+ * 5.Are any traders based in Osmanabad?
+ * 6.Print all transactions’ values from the traders living in Nanded.
+ * 7.What’s the highest value of all the transactions?
+ * 8.Find the transaction with the smallest value.
+ */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class LearnJava8StreamApplicationTests {
@@ -65,6 +77,78 @@ public class LearnJava8StreamApplicationTests {
 		
 		transactionRepo.saveAll(transactions);
 	}
+	/**
+	 * 1.Find all transactions in the year 2011 and sort them by value (small to high).
+	 * SQL:
+	 */
+	@Test
+	public void findAllYear2011() {
+		
+	}
+	
+	
+	/**
+	 * 2.What are all the unique cities where the traders work?
+	 * SQL:
+	 */
+	@Test
+	public void allUniqueCity() {
+		
+	}
+	
+	/**
+	 * 3.Find all traders from Nanded and sort them by name.
+	 * SQL:
+	 */
+	@Test
+	public void allTradersNanded() {
+		
+	}
+	/**
+	 * 4.Return a string of all traders’ names sorted alphabetically.
+	 * SQL:
+	 */
+	@Test
+	public void allTradersSorted() {
+		
+	}
+	
+	/**
+	 * 5.Are any traders based in Osmanabad?
+	 * SQL:
+	 */
+	@Test
+	public void anyTradersInOsbad() {
+		
+	}
+	/**
+	 * 6.Print all transactions’ values from the traders living in Nanded.
+	 * SQL:
+	 */
+	@Test
+	public void allTransaction() {
+		
+		
+	}
+	
+	/**
+	 * 7.What’s the highest value of all the transactions?
+	 * SQL:
+	 */
+	@Test
+	public void highTransaction() {
+		
+	}
+	/**
+	 * 8.Find the transaction with the smallest value.
+	 * SQL:
+	 */
+	@Test
+	public void transactionSmall() {
+		
+	}
+	
+	
 	
 	
 }
