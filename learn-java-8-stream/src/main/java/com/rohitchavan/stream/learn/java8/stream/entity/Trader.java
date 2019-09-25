@@ -16,10 +16,6 @@ import javax.persistence.Id;
  */
 @Entity
 public class Trader implements Serializable {
-	public Trader(String name, String city) {
-		this.name = name;
-		this.city = city;
-	}
 
 	private static final long serialVersionUID = 1L;
 
@@ -30,6 +26,10 @@ public class Trader implements Serializable {
 	private String city;
 
 	public Trader() {
+	}
+	public Trader(String name, String city) {
+		this.name = name;
+		this.city = city;
 	}
 
 	public Trader(Long id, String name, String city) {

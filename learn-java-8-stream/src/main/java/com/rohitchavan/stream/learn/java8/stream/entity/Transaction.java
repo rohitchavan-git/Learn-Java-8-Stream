@@ -11,9 +11,7 @@ import javax.persistence.ManyToOne;
 
 /**
  * 
- * @author Rohit Chavan
- * 
- *         Transaction Entity
+ * @author Rohit Chavan Transaction Entity
  */
 @Entity
 public class Transaction implements Serializable {
