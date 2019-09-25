@@ -28,7 +28,7 @@ In this Repository we are giving you the best of best the implementations of str
      * forEach
      * IntStream.rangeClosed
      * mapToObj ,mapToInt and more
-  * Logically We are comapring all Stream operations to MYSQL Opearations
+  * Logically We are comparing all Stream operations to MYSQL Operations
   ### Example
   ```bash
       select tid from transactions where city="hyd" (Logically Similar To) 
@@ -44,7 +44,7 @@ In this Repository we are giving you the best of best the implementations of str
    * Find all traders from Nanded and sort them by name.
    * Return a string of all traders’ names sorted alphabetically.
    * Are any traders based in Osmanabad?
-   * Print all transactions’ values from the traders living in Cambridge.
+   * Print all transactions’ values from the traders living in Nanded.
    * What’s the highest value of all the transactions?
    * Find the transaction with the smallest value.
 ## Database Design
