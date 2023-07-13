@@ -1,5 +1,14 @@
 # New Way Of Learing Java 8 Streams
 In this Repository we are giving you the best of best the implementations of streams in java 8, we are trying to show you how stream is similar to MySQL operation 
+
+## Read similar 
+ * [Learn Java 8-Stream](https://github.com/rohitchavan-git/Learn-Java-8-Stream)
+ * [ Java 8 Workshop ](https://github.com/rohitchavan-git/java8-workshop)
+ * [Real Time Use Cases java 11 ](https://github.com/rohitchavan-git/Real-Time-Use-of-java-11-Stream-API)
+ * [Optional In Use](https://github.com/rohitchavan-git/OptionalInJava)
+ * [Java 8 coding interview Preparation ](https://github.com/rohitchavan-git/Java-8-Transition-From-Functional-Style-to-Imperative-Paradigm)
+ * [Java 8 funcitonal programming to imperative style](https://github.com/rohitchavan-git/Java-8-Transition-From-Functional-Style-to-Imperative-Paradigm)
+
 ## Topics Covers
   * lambda in java 8
   * Functional Interface
