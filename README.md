@@ -8,6 +8,7 @@ In this Repository we are giving you the best of best the implementations of str
  * [Optional In Use](https://github.com/rohitchavan-git/OptionalInJava)
  * [Java 8 coding interview Preparation ](https://github.com/rohitchavan-git/Java-8-Transition-From-Functional-Style-to-Imperative-Paradigm)
  * [Java 8 funcitonal programming to imperative style](https://github.com/rohitchavan-git/Java-8-Transition-From-Functional-Style-to-Imperative-Paradigm)
+ * [Design Pattern Using java 8 ](https://github.com/rohitchavan-git/Java-Design-Patterns-Modern-Solutions-for-Common-Problems)
 
 ## Topics Covers
   * lambda in java 8
